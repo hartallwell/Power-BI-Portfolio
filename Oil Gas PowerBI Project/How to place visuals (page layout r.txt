@@ -1,0 +1,23 @@
+How to place visuals (page layout rules)
+Use this simple grid approach:
+
+Top = summary, middle = explanations, bottom = details
+
+Top row: KPI cards.
+Middle row: 2–3 main charts showing trends and top breakdowns.
+Bottom row: 2 more detailed visuals (matrix, scatter, detailed bar charts).
+Left to right = story
+
+Left: “What and how big?” (incidents, cost, downtime).
+Middle: “Where and on what?” (by facility, equipment).
+Right: “Why / risk view?” (risk categories, high‑cost/high‑downtime items).
+Slicers placement
+
+Put key slicers (Date, Facility, Equipment, maybe Risk Category)
+horizontally at the top or vertically in a narrow left pane.
+Avoid scattering slicers across the page.
+Keep it clean
+
+Max ~6–8 visuals per page.
+Align visuals in a grid, consistent heights and widths.
+Leave white space; don’t edge visuals all the way to the border.
