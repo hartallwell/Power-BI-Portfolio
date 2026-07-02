@@ -1,0 +1,228 @@
+ShutdownID,TrainID,StartDateKey,EndDateKey,DurationDays,ShutdownType,Reason,LostProduction,ShutdownCost
+1,1,20190124,20190218,25,Planned Turnaround,Scheduled overhaul,36530.2,10339301.48
+2,1,20191014,20191104,21,Planned Turnaround,Scheduled overhaul,18489.5,2290526.37
+3,1,20190118,20190211,24,Planned Turnaround,Scheduled overhaul,65598.1,8048036.07
+4,1,20191009,20191010,1,Partial Curtailment,Feed gas shortage,1547.2,746725.01
+5,1,20190203,20190210,7,Emergency Shutdown,Pipeline rupture,7269.3,720665.43
+6,1,20191215,20191224,9,Feed Gas Interruption,Pipeline rupture,17637.1,657931.94
+7,2,20191007,20191108,32,Planned Turnaround,Scheduled overhaul,31609.6,13259516.21
+8,2,20190228,20190324,24,Planned Turnaround,Scheduled overhaul,75348.1,3700429.94
+9,2,20190606,20190702,26,Planned Turnaround,Scheduled overhaul,45740.0,10942976.2
+10,2,20191121,20191213,22,Planned Turnaround,Scheduled overhaul,53782.4,944791.98
+11,2,20190813,20190818,5,Emergency Shutdown,Regulatory audit,7661.2,526942.86
+12,2,20190427,20190428,1,Emergency Shutdown,Scheduled overhaul,1101.7,1444415.8
+13,3,20190721,20190818,28,Planned Turnaround,Scheduled overhaul,33201.1,6177325.54
+14,3,20190719,20190815,27,Planned Turnaround,Scheduled overhaul,47989.5,4821085.37
+15,3,20190205,20190308,31,Planned Turnaround,Scheduled overhaul,38190.5,9236557.52
+16,3,20190713,20190812,30,Planned Turnaround,Scheduled overhaul,104685.8,19905686.19
+17,3,20191124,20191126,2,Partial Curtailment,Regulatory audit,3654.4,5333074.76
+18,3,20190210,20190217,7,Emergency Shutdown,Feed gas shortage,8264.1,481186.54
+19,4,20191110,20191214,34,Planned Turnaround,Scheduled overhaul,85855.6,5965378.24
+20,4,20190318,20190420,33,Planned Turnaround,Scheduled overhaul,108588.9,20937330.09
+21,4,20190801,20190823,22,Planned Turnaround,Scheduled overhaul,72788.5,3777350.88
+22,4,20190203,20190211,8,Feed Gas Interruption,Pipeline rupture,15735.8,1059462.43
+23,4,20190818,20190821,3,Partial Curtailment,Safety system activation,3874.5,2776663.56
+24,4,20191121,20191127,6,Emergency Shutdown,Control system fault,11096.5,905204.74
+25,4,20190601,20190611,10,Feed Gas Interruption,Contractor error,8451.7,628142.44
+26,5,20190403,20190508,35,Planned Turnaround,Scheduled overhaul,30968.5,3096983.8
+27,5,20190522,20190619,28,Planned Turnaround,Scheduled overhaul,38596.3,6015467.72
+28,5,20190826,20190922,27,Planned Turnaround,Scheduled overhaul,35480.9,1891086.77
+29,5,20190715,20190716,1,Feed Gas Interruption,Regulatory audit,1480.2,1271580.64
+30,5,20190626,20190628,2,Emergency Shutdown,Lightning strike,1574.8,1067328.01
+31,5,20190515,20190519,4,Emergency Shutdown,Pipeline rupture,4658.8,3458053.21
+32,6,20190225,20190331,34,Planned Turnaround,Scheduled overhaul,48899.6,3903181.85
+33,6,20190702,20190725,23,Planned Turnaround,Scheduled overhaul,41934.2,10224605.93
+34,6,20190723,20190824,32,Planned Turnaround,Scheduled overhaul,111604.5,6561647.14
+35,6,20190410,20190414,4,Emergency Shutdown,Compressor failure,5475.1,1294986.24
+36,6,20190119,20190127,8,Feed Gas Interruption,Contractor error,15032.6,1052276.96
+37,1,20200303,20200402,30,Planned Turnaround,Scheduled overhaul,29504.8,11499381.42
+38,1,20201008,20201107,30,Planned Turnaround,Scheduled overhaul,72156.1,6629615.72
+39,1,20201019,20201117,29,Planned Turnaround,Scheduled overhaul,47971.8,1850253.35
+40,1,20200409,20200416,7,Emergency Shutdown,Feed gas shortage,10552.7,636622.61
+41,1,20200115,20200125,10,Partial Curtailment,Storm warning,19941.4,432850.83
+42,1,20200312,20200314,2,Feed Gas Interruption,Lightning strike,2108.6,2246285.08
+43,2,20201127,20201226,29,Planned Turnaround,Scheduled overhaul,46641.4,1495287.04
+44,2,20200510,20200609,30,Planned Turnaround,Scheduled overhaul,41061.0,2507819.34
+45,2,20200517,20200614,28,Planned Turnaround,Scheduled overhaul,41384.8,14722612.24
+46,2,20200111,20200114,3,Feed Gas Interruption,Regulatory audit,5909.1,392146.4
+47,2,20200718,20200719,1,Feed Gas Interruption,Pipeline rupture,612.9,1530452.07
+48,3,20200705,20200726,21,Planned Turnaround,Scheduled overhaul,34278.2,2942443.88
+49,3,20200212,20200316,33,Planned Turnaround,Scheduled overhaul,76285.6,3247953.23
+50,3,20200314,20200404,21,Planned Turnaround,Scheduled overhaul,26969.7,3463809.72
+51,3,20200409,20200412,3,Emergency Shutdown,Pipeline rupture,3221.4,260404.01
+52,3,20200812,20200817,5,Partial Curtailment,Lightning strike,4171.9,1507966.2
+53,3,20200225,20200301,5,Emergency Shutdown,Scheduled overhaul,7311.1,2509883.25
+54,3,20200506,20200516,10,Partial Curtailment,Safety system activation,5573.9,1255932.27
+55,4,20201017,20201108,22,Planned Turnaround,Scheduled overhaul,40480.6,5757331.86
+56,4,20201214,20210104,21,Planned Turnaround,Scheduled overhaul,46279.5,19159408.51
+57,4,20201224,20210124,31,Planned Turnaround,Scheduled overhaul,41291.8,790707.89
+58,4,20200620,20200716,26,Planned Turnaround,Scheduled overhaul,67369.8,5148899.89
+59,4,20200723,20200728,5,Feed Gas Interruption,Contractor error,3454.7,127500.93
+60,4,20201206,20201216,10,Feed Gas Interruption,Storm warning,9514.2,561535.91
+61,4,20201021,20201027,6,Feed Gas Interruption,Control system fault,6976.1,1741462.2
+62,5,20201103,20201128,25,Planned Turnaround,Scheduled overhaul,54793.0,6578968.6
+63,5,20200422,20200517,25,Planned Turnaround,Scheduled overhaul,35163.2,2565742.61
+64,5,20200215,20200313,27,Planned Turnaround,Scheduled overhaul,86199.4,7229437.36
+65,5,20200813,20200817,4,Partial Curtailment,Feed gas shortage,5936.3,1594703.02
+66,5,20200406,20200415,9,Feed Gas Interruption,Control system fault,5177.9,712833.85
+67,5,20200918,20200928,10,Feed Gas Interruption,Scheduled overhaul,19250.6,4759920.5
+68,6,20200915,20201020,35,Planned Turnaround,Scheduled overhaul,43040.4,12324576.1
+69,6,20200427,20200528,31,Planned Turnaround,Scheduled overhaul,48011.0,10473354.0
+70,6,20200409,20200507,28,Planned Turnaround,Scheduled overhaul,28257.7,3338934.13
+71,6,20200618,20200710,22,Planned Turnaround,Scheduled overhaul,25819.4,1498302.16
+72,6,20200403,20200410,7,Partial Curtailment,Process leak,6974.3,945439.41
+73,6,20200725,20200804,10,Emergency Shutdown,Compressor failure,17851.0,1938301.71
+74,6,20200610,20200617,7,Emergency Shutdown,Process leak,9151.3,6111379.09
+75,6,20200808,20200813,5,Partial Curtailment,Process leak,6142.3,595570.05
+76,1,20210805,20210904,30,Planned Turnaround,Scheduled overhaul,67264.0,19646464.92
+77,1,20211101,20211123,22,Planned Turnaround,Scheduled overhaul,55779.3,1975138.65
+78,1,20210109,20210205,27,Planned Turnaround,Scheduled overhaul,45464.0,4552123.51
+79,1,20210525,20210601,7,Emergency Shutdown,Safety system activation,12266.6,833043.8
+80,1,20210608,20210610,2,Emergency Shutdown,Regulatory audit,1120.8,3987560.98
+81,1,20210316,20210318,2,Partial Curtailment,Storm warning,3843.3,929985.31
+82,2,20211020,20211121,32,Planned Turnaround,Scheduled overhaul,87666.1,7888043.9
+83,2,20210504,20210603,30,Planned Turnaround,Scheduled overhaul,26080.0,2246979.87
+84,2,20210713,20210814,32,Planned Turnaround,Scheduled overhaul,42735.7,10542968.02
+85,2,20210223,20210228,5,Partial Curtailment,Regulatory audit,7003.1,1951271.17
+86,2,20211112,20211114,2,Partial Curtailment,Contractor error,2942.6,273223.82
+87,3,20210712,20210812,31,Planned Turnaround,Scheduled overhaul,99424.8,4684236.44
+88,3,20210324,20210422,29,Planned Turnaround,Scheduled overhaul,98796.6,964903.11
+89,3,20210925,20211023,28,Planned Turnaround,Scheduled overhaul,57544.5,14975469.75
+90,3,20210427,20210429,2,Feed Gas Interruption,Safety system activation,3644.9,477691.2
+91,3,20211113,20211119,6,Partial Curtailment,Compressor failure,7448.8,590243.77
+92,3,20210511,20210516,5,Emergency Shutdown,Storm warning,7758.9,1943327.59
+93,4,20211123,20211221,28,Planned Turnaround,Scheduled overhaul,56282.0,1955555.17
+94,4,20210723,20210816,24,Planned Turnaround,Scheduled overhaul,39042.2,6183790.08
+95,4,20210912,20211009,27,Planned Turnaround,Scheduled overhaul,94254.4,5562937.26
+96,4,20210809,20210903,25,Planned Turnaround,Scheduled overhaul,36969.7,2623841.83
+97,4,20211218,20211221,3,Feed Gas Interruption,Lightning strike,2473.7,915227.48
+98,4,20211010,20211012,2,Feed Gas Interruption,Lightning strike,1888.7,735026.38
+99,5,20210502,20210523,21,Planned Turnaround,Scheduled overhaul,48175.5,6817801.75
+100,5,20210804,20210907,34,Planned Turnaround,Scheduled overhaul,28326.0,2833901.43
+101,5,20210606,20210627,21,Planned Turnaround,Scheduled overhaul,31115.5,1546117.93
+102,5,20211122,20211123,1,Emergency Shutdown,Feed gas shortage,723.8,1149546.58
+103,5,20210218,20210225,7,Partial Curtailment,Storm warning,9759.3,2259429.6
+104,5,20210815,20210820,5,Feed Gas Interruption,Storm warning,9925.2,452529.84
+105,5,20211204,20211208,4,Emergency Shutdown,Regulatory audit,3266.2,1341579.88
+106,6,20210301,20210328,27,Planned Turnaround,Scheduled overhaul,54441.7,5996021.23
+107,6,20210410,20210512,32,Planned Turnaround,Scheduled overhaul,50026.9,3040364.23
+108,6,20211119,20211220,31,Planned Turnaround,Scheduled overhaul,92086.9,3129729.52
+109,6,20211105,20211110,5,Feed Gas Interruption,Feed gas shortage,3035.6,474749.62
+110,6,20211010,20211018,8,Partial Curtailment,Pipeline rupture,9624.4,602753.44
+111,1,20220803,20220902,30,Planned Turnaround,Scheduled overhaul,27228.7,4356999.26
+112,1,20220501,20220523,22,Planned Turnaround,Scheduled overhaul,31198.1,27782857.33
+113,1,20221001,20221103,33,Planned Turnaround,Scheduled overhaul,86300.3,9714965.49
+114,1,20221115,20221220,35,Planned Turnaround,Scheduled overhaul,54285.8,16750781.79
+115,1,20220216,20220222,6,Partial Curtailment,Process leak,5999.8,6336977.35
+116,1,20220723,20220731,8,Emergency Shutdown,Safety system activation,11951.0,526370.56
+117,1,20220803,20220809,6,Feed Gas Interruption,Safety system activation,5909.5,3381774.55
+118,2,20221128,20221227,29,Planned Turnaround,Scheduled overhaul,59372.7,1403463.59
+119,2,20221025,20221122,28,Planned Turnaround,Scheduled overhaul,69680.9,7826000.37
+120,2,20220905,20221010,35,Planned Turnaround,Scheduled overhaul,55218.8,13787845.81
+121,2,20221120,20221124,4,Emergency Shutdown,Feed gas shortage,3864.5,281295.64
+122,2,20220215,20220217,2,Feed Gas Interruption,Regulatory audit,3496.4,991188.63
+123,3,20220727,20220824,28,Planned Turnaround,Scheduled overhaul,96506.5,2283382.84
+124,3,20220707,20220811,35,Planned Turnaround,Scheduled overhaul,84641.2,7395650.27
+125,3,20220209,20220314,33,Planned Turnaround,Scheduled overhaul,96789.6,847084.72
+126,3,20220909,20221013,34,Planned Turnaround,Scheduled overhaul,27435.5,33727321.97
+127,3,20221116,20221119,3,Feed Gas Interruption,Control system fault,3923.6,586453.29
+128,3,20220715,20220721,6,Partial Curtailment,Lightning strike,11827.0,520180.37
+129,3,20220111,20220119,8,Emergency Shutdown,Process leak,8632.9,4095624.26
+130,3,20220802,20220805,3,Partial Curtailment,Contractor error,5844.1,749510.79
+131,4,20220915,20221006,21,Planned Turnaround,Scheduled overhaul,57762.6,3495779.95
+132,4,20220303,20220331,28,Planned Turnaround,Scheduled overhaul,81483.3,2124301.85
+133,4,20220721,20220812,22,Planned Turnaround,Scheduled overhaul,68194.9,3929247.77
+134,4,20220828,20220906,9,Partial Curtailment,Compressor failure,12835.7,273199.64
+135,4,20220424,20220426,2,Emergency Shutdown,Process leak,3935.0,3886938.77
+136,4,20220806,20220811,5,Partial Curtailment,Compressor failure,2844.9,1909930.0
+137,4,20220705,20220709,4,Emergency Shutdown,Contractor error,4472.3,1408231.98
+138,5,20221028,20221124,27,Planned Turnaround,Scheduled overhaul,66776.9,2014715.36
+139,5,20220515,20220609,25,Planned Turnaround,Scheduled overhaul,65011.7,13918692.24
+140,5,20220522,20220620,29,Planned Turnaround,Scheduled overhaul,35569.5,4424860.44
+141,5,20220521,20220528,7,Partial Curtailment,Safety system activation,8296.8,751458.5
+142,5,20221210,20221211,1,Partial Curtailment,Regulatory audit,1093.7,1738443.98
+143,5,20220421,20220425,4,Feed Gas Interruption,Storm warning,3503.8,5457618.24
+144,5,20220321,20220323,2,Feed Gas Interruption,Regulatory audit,2939.0,590039.19
+145,6,20221205,20221227,22,Planned Turnaround,Scheduled overhaul,71631.9,3328652.14
+146,6,20220405,20220508,33,Planned Turnaround,Scheduled overhaul,74461.2,19860069.78
+147,6,20220527,20220619,23,Planned Turnaround,Scheduled overhaul,34357.8,11815818.19
+148,6,20220524,20220627,34,Planned Turnaround,Scheduled overhaul,58294.1,30013887.86
+149,6,20220912,20220914,2,Feed Gas Interruption,Process leak,1041.8,1109121.23
+150,6,20221222,20221227,5,Feed Gas Interruption,Storm warning,5357.7,1405434.17
+151,6,20220416,20220417,1,Emergency Shutdown,Storm warning,1826.4,3061170.39
+152,1,20231127,20231225,28,Planned Turnaround,Scheduled overhaul,91149.7,3160182.9
+153,1,20230302,20230323,21,Planned Turnaround,Scheduled overhaul,34057.5,4944253.9
+154,1,20230905,20231002,27,Planned Turnaround,Scheduled overhaul,54670.6,12433059.06
+155,1,20230719,20230722,3,Partial Curtailment,Process leak,4447.1,3820909.45
+156,1,20230123,20230129,6,Partial Curtailment,Lightning strike,6990.4,22163934.76
+157,1,20230113,20230118,5,Feed Gas Interruption,Lightning strike,9761.6,449254.45
+158,1,20231001,20231002,1,Emergency Shutdown,Scheduled overhaul,865.4,265418.66
+159,2,20231007,20231110,34,Planned Turnaround,Scheduled overhaul,107038.0,3794003.98
+160,2,20231001,20231026,25,Planned Turnaround,Scheduled overhaul,77942.4,2854621.92
+161,2,20230526,20230618,23,Planned Turnaround,Scheduled overhaul,25226.4,8923684.54
+162,2,20230419,20230425,6,Partial Curtailment,Compressor failure,4568.2,1171583.07
+163,2,20230825,20230831,6,Feed Gas Interruption,Contractor error,8343.0,909198.12
+164,2,20230124,20230202,9,Feed Gas Interruption,Safety system activation,10683.6,947212.47
+165,3,20230823,20230927,35,Planned Turnaround,Scheduled overhaul,69916.6,11220872.07
+166,3,20230303,20230326,23,Planned Turnaround,Scheduled overhaul,35478.5,7491896.42
+167,3,20230613,20230713,30,Planned Turnaround,Scheduled overhaul,66975.1,4256506.71
+168,3,20231204,20231213,9,Partial Curtailment,Lightning strike,10305.9,2779317.04
+169,3,20230714,20230716,2,Emergency Shutdown,Scheduled overhaul,2280.3,1502935.53
+170,4,20230203,20230309,34,Planned Turnaround,Scheduled overhaul,35036.4,3467327.45
+171,4,20230626,20230719,23,Planned Turnaround,Scheduled overhaul,52950.6,6554229.97
+172,4,20230622,20230714,22,Planned Turnaround,Scheduled overhaul,42002.0,1422892.0
+173,4,20230110,20230209,30,Planned Turnaround,Scheduled overhaul,49308.4,1657001.9
+174,4,20231116,20231120,4,Partial Curtailment,Pipeline rupture,4100.7,1103126.35
+175,4,20231008,20231015,7,Feed Gas Interruption,Contractor error,13732.7,3568981.69
+176,5,20231022,20231125,34,Planned Turnaround,Scheduled overhaul,90860.7,2054166.79
+177,5,20230511,20230606,26,Planned Turnaround,Scheduled overhaul,21228.6,16117523.54
+178,5,20230703,20230726,23,Planned Turnaround,Scheduled overhaul,64414.2,5346821.47
+179,5,20230606,20230612,6,Emergency Shutdown,Safety system activation,9494.4,2687160.28
+180,5,20230105,20230108,3,Partial Curtailment,Storm warning,1723.9,313464.39
+181,5,20230820,20230828,8,Partial Curtailment,Process leak,7278.0,1559213.4
+182,6,20230522,20230622,31,Planned Turnaround,Scheduled overhaul,74445.3,5274521.1
+183,6,20230413,20230513,30,Planned Turnaround,Scheduled overhaul,28437.3,23694174.82
+184,6,20230511,20230602,22,Planned Turnaround,Scheduled overhaul,18059.2,7543623.69
+185,6,20230923,20230927,4,Partial Curtailment,Contractor error,5352.3,1494434.98
+186,6,20231202,20231209,7,Partial Curtailment,Compressor failure,8327.4,387204.55
+187,6,20231013,20231020,7,Feed Gas Interruption,Safety system activation,4709.3,334338.2
+188,1,20241212,20241231,19,Planned Turnaround,Scheduled overhaul,43540.7,1917276.64
+189,1,20240717,20240808,22,Planned Turnaround,Scheduled overhaul,41108.5,3370996.26
+190,1,20240625,20240718,23,Planned Turnaround,Scheduled overhaul,23143.2,7381386.52
+191,1,20240425,20240521,26,Planned Turnaround,Scheduled overhaul,45447.2,3334150.83
+192,1,20241103,20241106,3,Partial Curtailment,Regulatory audit,3723.5,5134953.72
+193,1,20241119,20241129,10,Emergency Shutdown,Scheduled overhaul,17963.7,1260292.09
+194,2,20240821,20240915,25,Planned Turnaround,Scheduled overhaul,73752.3,6068077.3
+195,2,20240210,20240309,28,Planned Turnaround,Scheduled overhaul,56564.7,17743008.02
+196,2,20240913,20241011,28,Planned Turnaround,Scheduled overhaul,66272.9,5643960.24
+197,2,20241016,20241114,29,Planned Turnaround,Scheduled overhaul,35012.4,11516017.97
+198,2,20240217,20240220,3,Feed Gas Interruption,Compressor failure,2614.8,842459.62
+199,2,20241006,20241012,6,Feed Gas Interruption,Scheduled overhaul,11261.4,462676.7
+200,2,20241002,20241008,6,Partial Curtailment,Pipeline rupture,5967.2,1157068.15
+201,2,20241228,20241231,3,Partial Curtailment,Feed gas shortage,10000.4,1160430.45
+202,3,20241123,20241224,31,Planned Turnaround,Scheduled overhaul,57606.9,40990083.85
+203,3,20240518,20240614,27,Planned Turnaround,Scheduled overhaul,68510.7,3817304.9
+204,3,20241227,20241231,4,Planned Turnaround,Scheduled overhaul,111755.0,8047757.73
+205,3,20240112,20240206,25,Planned Turnaround,Scheduled overhaul,32167.7,4879667.25
+206,3,20240303,20240308,5,Feed Gas Interruption,Pipeline rupture,6307.7,1264842.94
+207,3,20240122,20240128,6,Feed Gas Interruption,Storm warning,4179.4,796757.61
+208,4,20241215,20241231,16,Planned Turnaround,Scheduled overhaul,40095.7,6868087.99
+209,4,20240820,20240914,25,Planned Turnaround,Scheduled overhaul,70786.4,8313806.5
+210,4,20240410,20240513,33,Planned Turnaround,Scheduled overhaul,96287.4,9947506.21
+211,4,20241015,20241023,8,Emergency Shutdown,Safety system activation,13337.5,1007749.74
+212,4,20240426,20240506,10,Partial Curtailment,Feed gas shortage,18095.0,264167.47
+213,4,20240904,20240913,9,Feed Gas Interruption,Pipeline rupture,8348.4,1748288.25
+214,4,20240327,20240403,7,Partial Curtailment,Pipeline rupture,13437.3,457533.08
+215,5,20240702,20240729,27,Planned Turnaround,Scheduled overhaul,58196.3,4190356.86
+216,5,20240227,20240330,32,Planned Turnaround,Scheduled overhaul,81756.6,7949749.75
+217,5,20240527,20240624,28,Planned Turnaround,Scheduled overhaul,75023.0,928616.92
+218,5,20241001,20241003,2,Feed Gas Interruption,Compressor failure,1767.8,3146312.7
+219,5,20241017,20241024,7,Emergency Shutdown,Pipeline rupture,11649.8,630473.87
+220,5,20240721,20240731,10,Feed Gas Interruption,Control system fault,5942.1,2827293.4
+221,6,20241117,20241217,30,Planned Turnaround,Scheduled overhaul,43597.0,2122090.06
+222,6,20241012,20241105,24,Planned Turnaround,Scheduled overhaul,56179.0,1371655.43
+223,6,20240912,20241004,22,Planned Turnaround,Scheduled overhaul,74232.2,6637195.94
+224,6,20240901,20240908,7,Feed Gas Interruption,Control system fault,3957.1,756776.82
+225,6,20240112,20240114,2,Feed Gas Interruption,Scheduled overhaul,1723.4,1310775.1
+226,6,20241225,20241231,6,Emergency Shutdown,Feed gas shortage,3399.0,1463676.57
+227,6,20241115,20241123,8,Partial Curtailment,Regulatory audit,6187.3,137318.74

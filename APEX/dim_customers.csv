@@ -1,0 +1,31 @@
+CustomerID,CustomerName,CountryID,CustomerType,ContractType
+1,ENEL SpA,4,Industrial,Long-term SPA
+2,Enagas SA,1,Industrial,Long-term SPA
+3,BOTAS,5,Industrial,Long-term SPA
+4,Gaz de France,3,Industrial,Long-term SPA
+5,EDF Trading,8,Utility,DES
+6,Shell Global Trading,7,Trader,FOB
+7,TotalEnergies Trading,3,Trader,FOB
+8,Naturgy,1,Industrial,Long-term SPA
+9,RWE Supply & Trading,9,Utility,CIF
+10,ENI SpA,4,Industrial,Long-term SPA
+11,Equinor ASA,16,Trader,Short-term
+12,Fortum,14,Utility,Short-term
+13,JERA Co,19,Utility,Long-term SPA
+14,KOGAS,20,Utility,Long-term SPA
+15,PetroChina,21,Industrial,Long-term SPA
+16,CNOOC,21,Industrial,Long-term SPA
+17,Indian Oil Corporation,23,Utility,DES
+18,GAIL India,23,Utility,Long-term SPA
+19,Pavilion Energy,24,Trader,Short-term
+20,PTT Thailand,25,Utility,DES
+21,NNPC Domestic,41,State,Long-term SPA
+22,Vitol Group,7,Trader,Spot
+23,Trafigura,24,Trader,Spot
+24,Gunvor Group,7,Trader,Spot
+25,Mercuria,7,Trader,FOB
+26,BP Trading,8,Trader,FOB
+27,Chevron Phillips,43,Industrial,CIF
+28,Marathon Petroleum,43,Industrial,Short-term
+29,Repsol,1,Industrial,Long-term SPA
+30,Tokyo Gas,19,Utility,Long-term SPA

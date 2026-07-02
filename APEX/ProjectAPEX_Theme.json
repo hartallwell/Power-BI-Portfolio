@@ -1,0 +1,45 @@
+{
+  "name": "ProjectAPEX",
+  "dataColors": [
+    "#2E86C1",
+    "#1B4F72",
+    "#117A65",
+    "#B7950B",
+    "#922B21",
+    "#5D6D7E",
+    "#1B2631",
+    "#154360"
+  ],
+  "background": "#F4F6F7",
+  "foreground": "#1B2631",
+  "tableAccent": "#1B4F72",
+  "good": "#1E8449",
+  "neutral": "#B7950B",
+  "bad": "#922B21",
+  "maximum": "#1E8449",
+  "center": "#B7950B",
+  "minimum": "#922B21",
+  "null": "#EBF5FB",
+  "textClasses": {
+    "callout": {
+      "fontSize": 28,
+      "fontFace": "Segoe UI",
+      "color": "#1B2631"
+    },
+    "title": {
+      "fontSize": 14,
+      "fontFace": "Segoe UI",
+      "color": "#1B4F72"
+    },
+    "header": {
+      "fontSize": 10,
+      "fontFace": "Segoe UI",
+      "color": "#1B2631"
+    },
+    "label": {
+      "fontSize": 10,
+      "fontFace": "Segoe UI",
+      "color": "#5D6D7E"
+    }
+  }
+}
